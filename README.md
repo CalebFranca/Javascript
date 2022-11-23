@@ -1,2 +1,1 @@
-# Javascript
- Curso de Javascript(curso em vídeo e Alura)
+JOGO DA VELHA USANDO HTML, CSS E JS PURO.
